@@ -2,8 +2,8 @@
 ## Simple user sign-up page
 
 ### Backend and Frontend
-*nodejs 
-*react 
+* nodejs 
+ *react 
 *redux 
 *Express JS 
 *MongoDB
